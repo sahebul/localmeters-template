@@ -1,0 +1,13 @@
+{
+  {
+  "app_name":"mynotes",
+  "app_version":2,
+  "need_force_update":false
+},
+
+  {
+  "app_name":"assam-gk",
+  "app_version":1,
+  "need_force_update":false
+}
+}
