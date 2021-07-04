@@ -1,0 +1,36 @@
+[
+  {
+    "title":"Chords",
+    "position":1,
+    "url":"",
+    "sub_menu":[
+      {
+        "title":"sub menu 1",
+        "position":1,
+        "url":""
+      },
+      {
+        "title":"sub menu 2",
+        "position":2,
+        "url":""
+      }
+    ]
+  },
+  {
+    "title":"Scales",
+    "position":2,
+    "url":"",
+    "sub_menu":[
+      {
+        "title":"Scales sub menu 1",
+        "position":1,
+        "url":""
+      },
+      {
+        "title":" Scalessub menu 2",
+        "position":2,
+        "url":""
+      }
+    ]
+  }
+]
