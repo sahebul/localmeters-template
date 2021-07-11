@@ -1,42 +1,48 @@
+
 [
     {
-      "title":"About react Native",
-      "position":"",
+      "title":"What is React.js ? ",
       "sl_no":"",
-      "is_a_web_page":false,
+      "topic_type":"text",
       "web_url":"",
-      "short_description":"",
-      "long_description":"",
+      "description":'<p dir="ltr" style="line-height:1.7999999999999998;margin-top:12pt;margin-bottom:12pt;"><span style="font-size:11pt;font-family:'Open Sans',sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">React JS</span><span style="font-size:11pt;font-family:'Open Sans',sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;is an open-source JavaScript library for building user interfaces &ndash; usually for single-page and mobile applications.</span></p>
+      <p dir="ltr" style="line-height:1.7999999999999998;margin-top:12pt;margin-bottom:12pt;"><span style="font-size:11pt;font-family:'Open Sans',sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">A user interface in React is built around&nbsp;</span><span style="font-size:11pt;font-family:'Open Sans',sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">components</span><span style="font-size:11pt;font-family:'Open Sans',sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">. Each of these components is a Javascript&nbsp;</span><span style="font-size:11pt;font-family:'Open Sans',sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">function</span><span style="font-size:11pt;font-family:'Open Sans',sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;defined by the user.</span></p>
+      <p dir="ltr" style="line-height:1.7999999999999998;margin-top:12pt;margin-bottom:12pt;"><span style="font-size:11pt;font-family:'Open Sans',sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">These components optionally accept inputs, i.e.&nbsp;</span><span style="font-size:11pt;font-family:'Open Sans',sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">props</span><span style="font-size:11pt;font-family:'Open Sans',sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;(properties), and return&nbsp;</span><span style="font-size:11pt;font-family:'Open Sans',sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">React elements</span><span style="font-size:11pt;font-family:'Open Sans',sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;that describe exactly how a section of the UI (user interface) should appear accordingly.</span></p>
+      <p><span style="font-size:11pt;font-family:'Open Sans',sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">React applications are usually built around a single HTML element, often called the&nbsp;</span><span style="font-size:11pt;font-family:'Open Sans',sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">root</span><span style="font-size:11pt;font-family:'Open Sans',sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;node.</span></p>',
       "child_list":[
-        {
-            "title":"About react Native",
-            "position":"",
-            "sl_no":"",
-            "is_a_web_page":false,
-            "web_url":"",
-            "short_description":"",
-            "long_description":""
-        },
-        {
-            "title":"About react Native",
-            "position":"",
-            "sl_no":"",
-            "is_a_web_page":false,
-            "web_url":"",
-            "short_description":"",
-            "long_description":""
-        }
       ]
     },
     {
-        "title":"About react Native",
-        "position":"",
+        "title":"About react Native list",
         "sl_no":"",
-        "is_a_web_page":false,
+        "topic_type":"list",
         "web_url":"",
-        "short_description":"",
         "long_description":"",
-        "child_list":[ ]
+        "child_list":[  
+           {
+          "title":"About react Native1",
+          "sl_no":"",
+          "topic_type":"text",
+          "web_url":"",
+          "description":"sdfsdfsd"
+          },
+          {
+            "title":"About react Native 2",
+            "sl_no":"",
+            "topic_type":"web",
+            "web_url":"url of page",
+            "description":"sdfsdfsd"
+          }
+       ]
+      },
+      {
+        "title":"About react Native",
+        "sl_no":"",
+        "topic_type":"web",
+        "web_url":"http://codeblockshub.com",
+        "long_description":"",
+        "child_list":[  
+         ]
       }
   ]
   
