@@ -1,0 +1,43 @@
+[
+    {
+      "title":"What is React.js ? ",
+      "sl_no":"",
+      "topic_type":"text",
+      "web_url":"",
+      "description":"<p>React JS is an open-source JavaScript library for building user interfaces &ndash; usually for single-page and mobile applications. A user interface in React is built around components. Each of these components is a Javascript function defined by the user. These components optionally accept inputs, i.e. props (properties), and return React elements that describe exactly how a section of the UI (user interface) should appear accordingly. React applications are usually built around a single HTML element, often called the root node.</p>",
+      "child_list":[
+      ]
+    },
+    {
+        "title":"About react Native list",
+        "sl_no":"",
+        "topic_type":"list",
+        "web_url":"",
+        "long_description":"",
+        "child_list":[  
+           {
+          "title":"About react Native1",
+          "sl_no":"",
+          "topic_type":"text",
+          "web_url":"",
+          "description":"sdfsdfsd"
+          },
+          {
+            "title":"About react Native 2",
+            "sl_no":"",
+            "topic_type":"web",
+            "web_url":"url of page",
+            "description":"sdfsdfsd"
+          }
+       ]
+      },
+      {
+        "title":"About react Native",
+        "sl_no":"",
+        "topic_type":"web",
+        "web_url":"http://codeblockshub.com",
+        "long_description":"",
+        "child_list":[  
+         ]
+      }
+  ]
